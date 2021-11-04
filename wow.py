@@ -1,2 +1,2 @@
 Version: 1.7.2
-MiniUpdate: 1.0.0
+MiniUpdate: 1.0.1
