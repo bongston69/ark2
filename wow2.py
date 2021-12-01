@@ -1,1 +1,1 @@
-NewVersion = 1.0
+NewVersion = 1.2
